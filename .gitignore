@@ -2,3 +2,4 @@ Data/
 Models/
 .DS_Store
 wandb
+env
